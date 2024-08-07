@@ -11,7 +11,7 @@
 
 &nbsp;&nbsp;
 ## 🛠️ Meus Projetos
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=prw1-exercicio-final&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/prw1-exercicio-final)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=lava-rapido&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/lava-rapido)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=project-sticky-notes-js&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/project-sticky-notes-js)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=lava-rapido&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/lava-rapido)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=project-imc-tables-with-webservice-js&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/project-imc-tables-with-webservice-js)[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Luan1611&repo=programming-exercises&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/Luan1611/programming-exercises)
 
 
 &nbsp;&nbsp;
